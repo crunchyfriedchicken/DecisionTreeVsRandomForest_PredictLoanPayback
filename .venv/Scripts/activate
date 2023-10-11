@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Michelle\Data_Science_Code\RandomForest_PredictLoanPayback\.venv"
+VIRTUAL_ENV="C:\Users\Michelle\Data_Science_Code\DecisionTreeVsRandomForest_PredictLoanPayback\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

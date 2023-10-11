@@ -20,7 +20,7 @@ To install this project you will have to download the repository from github and
 
 Once installed you can use this project by entering the repository location using your CLI. Once entered into the repository you can run the project by first entering ```source .venv/Scripts/activate``` and then entering ```python TreeMethods.py``` in the CLI.
 
-Once run a graph will show up as well as a confusion matrix and classification report, similar to these examples below:
+Once run graphs, confusion matrices and classification reports will show up, similar to these examples below:
 ![Graph](./assets/graph.png)
 
 ![Classification report & confusion matrix](./assets/image.png)
