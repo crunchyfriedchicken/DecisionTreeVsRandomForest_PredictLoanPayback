@@ -6,7 +6,7 @@ In this project I used Decision Trees and Random Forest to predict loan payback 
 
 - python 
 - sklearn
-- panda
+- pandas
 - seaborn
 - matplotlib
 
